@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyResturant</string>
+
+    <string name="dishname">name</string>
+    <string name="dishprice">50</string>
+    <string name="calories">500</string>
+
+</resources>

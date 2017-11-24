@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Salmon",
+    "picURL": "https://static.pexels.com/photos/46239/salmon-dish-food-meal-46239.jpeg",
+    "price": 50,
+    "calories": 700
+  },
+
+  {
+    "name": "Steak",
+    "picURL": "http://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/27/0/0138320_mustard-marinated-steak_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382541359661.jpeg",
+    "price": 80,
+    "calories": 1200
+
+  },
+
+  {
+    "name": "Humus",
+    "picURL": "https://media-cdn.tripadvisor.com/media/photo-s/0a/52/c5/7e/humus.jpg",
+    "price": 10,
+    "calories": 800
+  },
+
+  {
+    "name": "Shakshuka",
+    "picURL": "https://static01.nyt.com/images/2014/09/02/dining/shakshuka/shakshuka-superJumbo-v2.jpg",
+    "price": 40,
+    "calories": 800
+  },
+
+  {
+    "name": "Burger",
+    "picURL": "https://c.tadst.com/gfx/750x500/hamburger-day.jpg?1",
+    "price": 50,
+    "calories": 1000
+  },
+
+  {
+    "name": "Sushi",
+    "picURL": "https://img.grouponcdn.com/deal/hfefAup1zQWBE2K8sWURgS27xax/hf-846x508/v1/c700x420.jpg",
+    "price": 10,
+    "calories": 800
+  },
+
+  {
+    "name": "Beef Sausage",
+    "picURL": "https://www.southsidemarket.com/wp-content/uploads/2017/06/HeroFinal-1.jpg",
+    "price": 10,
+    "calories": 800
+  },
+
+  {
+    "name": "Burrito",
+    "picURL": "https://fthmb.tqn.com/5IsOMvbfS4_Y6X8nZPCauBI2MdY=/2077x1369/filters:no_upscale()/1-bean-burrito-56a9bee83df78cf772aa2994.jpg",
+    "price": 10,
+    "calories": 800
+  }
+]
